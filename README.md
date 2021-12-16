@@ -7,7 +7,7 @@ implementation provided
 ## Building
 
 The project comes with an encoder binary, `encode`, and a decoder binary
-`decode`. To build both:
+`decode`. Both use the same adaptive coding model. To build both:
 
 ```bash
 $ cargo build
