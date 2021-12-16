@@ -1,7 +1,7 @@
-# Arithmetic Coder in Rust
+# Arithmetic Coding in Rust
 
-An arithmetic coder written in Rust. Ported from the **C** implementation
-provided
+An arithmetic coding library written in Rust. Ported from the **C**
+implementation provided
 [here](https://web.stanford.edu/class/ee398a/handouts/papers/WittenACM87ArithmCoding.pdf).
 
 ## Building
